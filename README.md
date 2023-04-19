@@ -1,1 +1,1 @@
-Module 1: Excel
+Module 1: ExceL
